@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran Kumar</h1>
 <h3 align="center">A Passionate Full-Stack Developer | Front-End Developer</h3>
-<img align="right" alt="displayImg" width="300px" src = "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1715939441~exp=1715943041~hmac=2e2df3656f79d8299c235a7a783226fe9ac2f1b08098445ee86f7edbde956671&w=996" />
+<img align="right" alt="displayImg" width="400" src = "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1715939441~exp=1715943041~hmac=2e2df3656f79d8299c235a7a783226fe9ac2f1b08098445ee86f7edbde956671&w=996" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumar866&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumar866" /> </p>
 

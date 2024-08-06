@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Mern stack**
+- 💬 Ask me about **MERN / MEAN stack and Java Full stack**
 
 - 📫 How to reach me **kirankumar201018@gmail.com**
 

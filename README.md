@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumar866&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumar866" /> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Mern stack**
 

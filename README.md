@@ -12,52 +12,139 @@ Hi there! I'm Kiran Kumar, a passionate Software Engineer with 3 years of experi
 
 ---
 
-### 🛠️ **Technologies & Tools:**
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### <img src="https://img.shields.io/badge/-Frontend-blue?style=for-the-badge" />
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-</p>
+<h3 align="center">Web Development</h3>
 
-### <img src="https://img.shields.io/badge/-Backend-green?style=for-the-badge" />
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://spring.io/images/spring-logo-2022-060a31a0c8bd9a4db3d17a105190d749.svg" alt="Spring Boot" width="80" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="50" height="50"/>
-</p>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="8" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+       <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/><br>CSS
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/><br>Tailwind CSS
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50" height="50" alt="Sass"/><br>Sass
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/><br>React
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="50" height="50"/><br>Redux
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg" alt="Angular" width="50" height="50"/><br>Angular
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/><br>TypeScript
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/><br>jQuery
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-### <img src="https://img.shields.io/badge/-Databases-orange?style=for-the-badge" />
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
-</p>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java"/><br>Java
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-### <img src="https://img.shields.io/badge/-DevOps-%23FF5733?style=for-the-badge" />
-<p>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Apache_Maven_logo.svg/160px-Apache_Maven_logo.svg.png" alt="Maven" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Apache_NiFi_logo.svg/256px-Apache_NiFi_logo.svg.png" alt="NiFi" width="50" height="50"/>
-</p>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-### <img src="https://img.shields.io/badge/-Cloud-%230082C4?style=for-the-badge" />
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Google_Cloud_Platform_logo.svg/1024px-Google_Cloud_Platform_logo.svg.png" alt="Google Cloud" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="50" height="50"/>
-</p>
+<h3 align="center">Cloud Computing & DevOps</h3>
 
----
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 ### 📫 **Connect with Me:**
 <p align="center">

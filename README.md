@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran Kumar</h1>
 <a href="https://kiran-kumar-parasa-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
   </a>
 <h3 align="center">A Passionate Full-Stack Developer | Front-End Developer</h3>
 

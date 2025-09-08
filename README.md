@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kiran Kumar</h1>
- <h3 align="center">Portfolio </h3> <a>https://kiran-kumar-parasa-portfolio.netlify.app/</a>
 <h3 align="center">A Passionate Full-Stack Developer | Front-End Developer</h3>
 
 <p align="center">
